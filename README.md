@@ -7,7 +7,8 @@ Welcome to the Learning Python repository! This repository is designed to help b
 To get started with learning Python, simply clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/learning-python.git
+git clone https://github.com/skberg/Python_learning.git
+
 ```
 
 ### Prerequisites
